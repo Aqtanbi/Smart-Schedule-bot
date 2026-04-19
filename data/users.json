@@ -1,0 +1,46 @@
+{
+  "5923496619": {
+    "user_id": 5923496619,
+    "subjects": [
+      {
+        "id": "d7b9f083",
+        "subject_type": "recurring",
+        "name": "ADS",
+        "day": "Monday",
+        "start_time": "11:00",
+        "room": "IEC-303",
+        "teacher": "Azimbayev Bauyrzhan",
+        "weeks": 7
+      },
+      {
+        "id": "6b53b70e",
+        "subject_type": "recurring",
+        "name": "ADS",
+        "day": "Thursday",
+        "start_time": "10:00",
+        "room": "IEC-303",
+        "teacher": "Azimbayev Bauyrzhan",
+        "weeks": 7
+      },
+      {
+        "id": "f06974d2",
+        "subject_type": "recurring",
+        "name": "HK",
+        "day": "Monday",
+        "start_time": "08:00",
+        "room": "AITU",
+        "teacher": "Auzhanova Assel",
+        "weeks": 7
+      },
+      {
+        "id": "a8e0ebd1",
+        "subject_type": "regular",
+        "name": "Cultural Studies",
+        "day": "Tuesday",
+        "start_time": "08:00",
+        "room": "AITU",
+        "teacher": "Uyzbayeva Anar"
+      }
+    ]
+  }
+}
